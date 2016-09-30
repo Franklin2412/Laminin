@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SnoozeLoaderView">
+        <attr name="startAnimate" format="boolean"/>
+        <attr name="activeBarColor" format="color"/>
+        <attr name="inActiveBarColor" format="color"/>
+        <attr name="barWidth" format="dimension"/>
+        <attr name="barHeight" format="dimension"/>
+        <attr name="barSpace" format="dimension"/>
+        <attr name="animationSpeed" format="integer"/>
+    </declare-styleable>
+
+    <declare-styleable name="CurvedLineView">
+        <attr name="fillColor" format="color"/>
+        <attr name="upperColor" format="color"/>
+        <attr name="lowerColor" format="color"/>
+    </declare-styleable>
+</resources>

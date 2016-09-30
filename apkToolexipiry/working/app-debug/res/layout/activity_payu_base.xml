@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+      xmlns:android="http://schemas.android.com/apk/res/android">
+        <ProgressBar android:id="@id/progress_bar" android:visibility="visible" android:layout_width="fill_parent" android:layout_height="60.0dip" android:layout_centerVertical="true" />
+        <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/header_container" android:background="#ffe6e6e6" android:layout_width="fill_parent" android:layout_height="100.0dip">
+            <TextView android:textSize="30.0sp" android:textStyle="bold" android:textColor="#ff302f2f" android:gravity="center" android:id="@id/textview_amount" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="Amount" />
+            <TextView android:textSize="15.0sp" android:textColor="#ff302f2f" android:gravity="center" android:id="@id/textview_txnid" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="Txnid" android:layout_below="@id/textview_amount" />
+        </LinearLayout>
+        <com.payu.payuui.Widget.SwipeTab.SlidingTabLayout android:id="@id/sliding_tab_layout" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_below="@id/header_container" />
+        <android.support.v4.view.ViewPager android:id="@id/pager" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_above="@id/button_pay_now" android:layout_below="@id/sliding_tab_layout" />
+        <Button android:enabled="false" android:textSize="25.0sp" android:textStyle="bold" android:textColor="#ffffffff" android:gravity="center" android:id="@id/button_pay_now" android:background="@drawable/bttn_grey_disabled" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="PAY NOW" android:layout_alignParentBottom="true" />
+    </RelativeLayout>
+</RelativeLayout>

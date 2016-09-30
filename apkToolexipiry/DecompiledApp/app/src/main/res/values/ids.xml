@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="action_bar_activity_content" />
+    <item type="id" name="action_bar_spinner" />
+    <item type="id" name="action_menu_divider" />
+    <item type="id" name="action_menu_presenter" />
+    <item type="id" name="home" />
+    <item type="id" name="k_amount" />
+    <item type="id" name="k_email" />
+    <item type="id" name="k_env" />
+    <item type="id" name="k_first_name" />
+    <item type="id" name="k_furl" />
+    <item type="id" name="k_merchant_key" />
+    <item type="id" name="k_offer_key" />
+    <item type="id" name="k_product_info" />
+    <item type="id" name="k_salt" />
+    <item type="id" name="k_sms_permission" />
+    <item type="id" name="k_store_one_click_payment" />
+    <item type="id" name="k_surl" />
+    <item type="id" name="k_txnid" />
+    <item type="id" name="k_udf1" />
+    <item type="id" name="k_udf2" />
+    <item type="id" name="k_udf3" />
+    <item type="id" name="k_udf4" />
+    <item type="id" name="k_udf5" />
+    <item type="id" name="k_user_credentials" />
+    <item type="id" name="progress_circular" />
+    <item type="id" name="progress_horizontal" />
+    <item type="id" name="split_action_bar" />
+    <item type="id" name="up" />
+    <item type="id" name="v_amount" />
+    <item type="id" name="v_email" />
+    <item type="id" name="v_env" />
+    <item type="id" name="v_first_name" />
+    <item type="id" name="v_furl" />
+    <item type="id" name="v_merchant_key" />
+    <item type="id" name="v_offer_key" />
+    <item type="id" name="v_product_info" />
+    <item type="id" name="v_salt" />
+    <item type="id" name="v_sms_permission" />
+    <item type="id" name="v_store_one_click_payment" />
+    <item type="id" name="v_surl" />
+    <item type="id" name="v_txnid" />
+    <item type="id" name="v_udf1" />
+    <item type="id" name="v_udf2" />
+    <item type="id" name="v_udf3" />
+    <item type="id" name="v_udf4" />
+    <item type="id" name="v_udf5" />
+    <item type="id" name="v_user_credentials" />
+    <item type="id" name="action_bar_title">false</item>
+    <item type="id" name="action_bar_subtitle">false</item>
+    <item type="id" name="action_mode_close_button">false</item>
+    <item type="id" name="activity_chooser_view_content">false</item>
+    <item type="id" name="expand_activities_button">false</item>
+    <item type="id" name="image">false</item>
+    <item type="id" name="default_activity_button">false</item>
+    <item type="id" name="list_item">false</item>
+    <item type="id" name="icon">false</item>
+    <item type="id" name="title">false</item>
+    <item type="id" name="buttonPanel">false</item>
+    <item type="id" name="spacer">false</item>
+    <item type="id" name="parentPanel">false</item>
+    <item type="id" name="topPanel">false</item>
+    <item type="id" name="title_template">false</item>
+    <item type="id" name="alertTitle">false</item>
+    <item type="id" name="contentPanel">false</item>
+    <item type="id" name="scrollIndicatorUp">false</item>
+    <item type="id" name="scrollView">false</item>
+    <item type="id" name="textSpacerNoButtons">false</item>
+    <item type="id" name="scrollIndicatorDown">false</item>
+    <item type="id" name="customPanel">false</item>
+    <item type="id" name="custom">false</item>
+    <item type="id" name="expanded_menu">false</item>
+    <item type="id" name="checkbox">false</item>
+    <item type="id" name="shortcut">false</item>
+    <item type="id" name="radio">false</item>
+    <item type="id" name="action_bar_root">false</item>
+    <item type="id" name="action_mode_bar_stub">false</item>
+    <item type="id" name="action_mode_bar">false</item>
+    <item type="id" name="decor_content_parent">false</item>
+    <item type="id" name="action_bar_container">false</item>
+    <item type="id" name="action_bar">false</item>
+    <item type="id" name="action_context_bar">false</item>
+    <item type="id" name="edit_query">false</item>
+    <item type="id" name="search_bar">false</item>
+    <item type="id" name="search_badge">false</item>
+    <item type="id" name="search_button">false</item>
+    <item type="id" name="search_edit_frame">false</item>
+    <item type="id" name="search_mag_icon">false</item>
+    <item type="id" name="search_plate">false</item>
+    <item type="id" name="search_src_text">false</item>
+    <item type="id" name="search_close_btn">false</item>
+    <item type="id" name="submit_area">false</item>
+    <item type="id" name="search_go_btn">false</item>
+    <item type="id" name="search_voice_btn">false</item>
+    <item type="id" name="select_dialog_listview">false</item>
+    <item type="id" name="app_bar">false</item>
+    <item type="id" name="scroll_view_main">false</item>
+    <item type="id" name="linear_layout_root_button">false</item>
+    <item type="id" name="linear_layout_row_container">false</item>
+    <item type="id" name="buttonLayout">false</item>
+    <item type="id" name="button_add">false</item>
+    <item type="id" name="button_next">false</item>
+    <item type="id" name="button_verify_api">false</item>
+    <item type="id" name="text_view_post_params">false</item>
+    <item type="id" name="r_layout">false</item>
+    <item type="id" name="parent">false</item>
+    <item type="id" name="webview">false</item>
+    <item type="id" name="magic_retry_container">false</item>
+    <item type="id" name="trans_overlay">false</item>
+    <item type="id" name="progress_bar">false</item>
+    <item type="id" name="header_container">false</item>
+    <item type="id" name="textview_amount">false</item>
+    <item type="id" name="textview_txnid">false</item>
+    <item type="id" name="sliding_tab_layout">false</item>
+    <item type="id" name="button_pay_now">false</item>
+    <item type="id" name="pager">false</item>
+    <item type="id" name="spinner1">false</item>
+    <item type="id" name="button_store_user_card">false</item>
+    <item type="id" name="button_get_user_cards">false</item>
+    <item type="id" name="button_delete_user_card">false</item>
+    <item type="id" name="button_edit_user_card">false</item>
+    <item type="id" name="button_get_card_information">false</item>
+    <item type="id" name="button_get_ibibo_codes">false</item>
+    <item type="id" name="button_get_value_added_services">false</item>
+    <item type="id" name="button_get_transaction_information">false</item>
+    <item type="id" name="button_get_offer_status">false</item>
+    <item type="id" name="button_verify_transaction">false</item>
+    <item type="id" name="button_delete_cvv">false</item>
+    <item type="id" name="button_check_offer_details">false</item>
+    <item type="id" name="button_get_emi_as_per_interest">false</item>
+    <item type="id" name="cb_progressbar">false</item>
+    <item type="id" name="cb_blank_overlay">false</item>
+    <item type="id" name="arrow">false</item>
+    <item type="id" name="help_view">false</item>
+    <item type="id" name="view">false</item>
+    <item type="id" name="text_view_snooze_header">false</item>
+    <item type="id" name="text_view_snooze_message">false</item>
+    <item type="id" name="text_view_transaction_snoozed_message1">false</item>
+    <item type="id" name="button_retry_anyway">false</item>
+    <item type="id" name="snooze_loader_view">false</item>
+    <item type="id" name="button_snooze_transaction">false</item>
+    <item type="id" name="text_view_retry_message_detail">false</item>
+    <item type="id" name="text_view_ac_debited_twice">false</item>
+    <item type="id" name="button_retry_transaction">false</item>
+    <item type="id" name="button_cancel_transaction">false</item>
+    <item type="id" name="t_confirm">false</item>
+    <item type="id" name="t_nconfirm">false</item>
+    <item type="id" name="button_go_back_snooze">false</item>
+    <item type="id" name="text_view_snooze_slow_user_header">false</item>
+    <item type="id" name="main_frame">false</item>
+    <item type="id" name="imageView">false</item>
+    <item type="id" name="dialog_title">false</item>
+    <item type="id" name="dialog_desc">false</item>
+    <item type="id" name="dotsProgressBar">false</item>
+    <item type="id" name="error_message">false</item>
+    <item type="id" name="choose_text">false</item>
+    <item type="id" name="pin">false</item>
+    <item type="id" name="otp">false</item>
+    <item type="id" name="bank_logo">false</item>
+    <item type="id" name="picker_month">false</item>
+    <item type="id" name="picker_year">false</item>
+    <item type="id" name="snooze_status_icon">false</item>
+    <item type="id" name="snooze_header_txt">false</item>
+    <item type="id" name="text_view_cancel_snooze_window">false</item>
+    <item type="id" name="text_view_emi_list">false</item>
+    <item type="id" name="linearLayout1">false</item>
+    <item type="id" name="edit_text_card_number">false</item>
+    <item type="id" name="image_card_type">false</item>
+    <item type="id" name="layout_expiry_cvv">false</item>
+    <item type="id" name="layout_expiry_date">false</item>
+    <item type="id" name="edit_text_expiry_month">false</item>
+    <item type="id" name="edit_text_expiry_year">false</item>
+    <item type="id" name="edit_text_card_cvv">false</item>
+    <item type="id" name="image_cvv">false</item>
+    <item type="id" name="edit_text_name_on_card">false</item>
+    <item type="id" name="edit_text_card_label">false</item>
+    <item type="id" name="check_box_save_card">false</item>
+    <item type="id" name="check_box_enable_oneclick_payment">false</item>
+    <item type="id" name="text_view_issuing_bank_down_error">false</item>
+    <item type="id" name="layout_axis">false</item>
+    <item type="id" name="image_button_axis">false</item>
+    <item type="id" name="text_view_axis">false</item>
+    <item type="id" name="layout_hdfc">false</item>
+    <item type="id" name="image_button_hdfc">false</item>
+    <item type="id" name="text_view_hdfc">false</item>
+    <item type="id" name="layout_citi">false</item>
+    <item type="id" name="image_button_citi">false</item>
+    <item type="id" name="text_view_citi">false</item>
+    <item type="id" name="layout_sbi">false</item>
+    <item type="id" name="image_button_sbi">false</item>
+    <item type="id" name="layout_icici">false</item>
+    <item type="id" name="image_button_icici">false</item>
+    <item type="id" name="spinner">false</item>
+    <item type="id" name="text_view_bank_down_error">false</item>
+    <item type="id" name="edit_text_title">false</item>
+    <item type="id" name="pager_saved_card">false</item>
+    <item type="id" name="indicator">false</item>
+    <item type="id" name="button_delete">false</item>
+    <item type="id" name="offer_status_text_view_header">false</item>
+    <item type="id" name="spinner_select_offer_mode">false</item>
+    <item type="id" name="linear_layout_card_number_layout">false</item>
+    <item type="id" name="edit_text_offer_card_number">false</item>
+    <item type="id" name="linear_layout_user_credentials">false</item>
+    <item type="id" name="edit_text_offer_user_credentials">false</item>
+    <item type="id" name="linear_layout_user_credentials_and_card_token">false</item>
+    <item type="id" name="spinner_stored_cards">false</item>
+    <item type="id" name="linear_layout_netbanking">false</item>
+    <item type="id" name="linear_layout_bank_code">false</item>
+    <item type="id" name="spinner_netbanking">false</item>
+    <item type="id" name="edit_text_offer_amount">false</item>
+    <item type="id" name="text_view_delete_card_cvv_info_header">false</item>
+    <item type="id" name="list_view_delete_stored_card_cvv">false</item>
+    <item type="id" name="text_view_delete_card_info_header">false</item>
+    <item type="id" name="list_view_delete_user_card">false</item>
+    <item type="id" name="text_view_edit_card_info_header">false</item>
+    <item type="id" name="spinner_edit_card">false</item>
+    <item type="id" name="edit_text_card_holder_name">false</item>
+    <item type="id" name="edit_text_card_name">false</item>
+    <item type="id" name="txt">false</item>
+    <item type="id" name="payu_emi_input">false</item>
+    <item type="id" name="emi_submit_btn">false</item>
+    <item type="id" name="emi_api_response">false</item>
+    <item type="id" name="filter_txt">false</item>
+    <item type="id" name="filter_submit_button">false</item>
+    <item type="id" name="filtered_results">false</item>
+    <item type="id" name="text_view_get_card_info_header">false</item>
+    <item type="id" name="linear_layout_new_card">false</item>
+    <item type="id" name="edit_text_offer_card_mode">false</item>
+    <item type="id" name="edit_text_offer_name_on_card">false</item>
+    <item type="id" name="linear_layout_stored_card">false</item>
+    <item type="id" name="text_view_get_transaction_info_header">false</item>
+    <item type="id" name="edit_text_from_date">false</item>
+    <item type="id" name="edit_text_to_date">false</item>
+    <item type="id" name="list_view_user_card">false</item>
+    <item type="id" name="relativeLayout1">false</item>
+    <item type="id" name="bank_image">false</item>
+    <item type="id" name="card_type_image">false</item>
+    <item type="id" name="text_view_masked_card_number">false</item>
+    <item type="id" name="text_view_saved_card_bank_down_error">false</item>
+    <item type="id" name="cvv_text_view">false</item>
+    <item type="id" name="edit_text_cvv">false</item>
+    <item type="id" name="check_box_save_card_enable_one_click_payment">false</item>
+    <item type="id" name="text_view_card_name">false</item>
+    <item type="id" name="text_view_card_mode">false</item>
+    <item type="id" name="text_view_store_card_info_header">false</item>
+    <item type="id" name="text_view_verify_payment_info_header">false</item>
+    <item type="id" name="edit_text_verify_payment_transaction_id">false</item>
+    <item type="id" name="__leak_canary_display_leak_list">false</item>
+    <item type="id" name="__leak_canary_display_leak_failure">false</item>
+    <item type="id" name="__leak_canary_action">false</item>
+    <item type="id" name="__leak_canary_row_text">false</item>
+    <item type="id" name="__leak_canary_row_time">false</item>
+    <item type="id" name="__leak_canary_row_connector">false</item>
+    <item type="id" name="__leak_canary_row_more">false</item>
+    <item type="id" name="loading">false</item>
+    <item type="id" name="header">false</item>
+    <item type="id" name="progress">false</item>
+    <item type="id" name="waiting">false</item>
+    <item type="id" name="magic_retry_parent">false</item>
+    <item type="id" name="error_title">false</item>
+    <item type="id" name="error_title2">false</item>
+    <item type="id" name="retry_btn">false</item>
+    <item type="id" name="waiting_dots_parent">false</item>
+    <item type="id" name="magic_reload_progress">false</item>
+    <item type="id" name="wv1">false</item>
+    <item type="id" name="l_nativebutton">false</item>
+    <item type="id" name="img_view">false</item>
+    <item type="id" name="b_continue">false</item>
+    <item type="id" name="text_view_netbanking">false</item>
+    <item type="id" name="action0">false</item>
+    <item type="id" name="cancel_action">false</item>
+    <item type="id" name="status_bar_latest_event_content">false</item>
+    <item type="id" name="media_actions">false</item>
+    <item type="id" name="action_divider">false</item>
+    <item type="id" name="line1">false</item>
+    <item type="id" name="time">false</item>
+    <item type="id" name="chronometer">false</item>
+    <item type="id" name="text2">false</item>
+    <item type="id" name="line3">false</item>
+    <item type="id" name="text">false</item>
+    <item type="id" name="info">false</item>
+    <item type="id" name="end_padder">false</item>
+    <item type="id" name="slider_image">false</item>
+    <item type="id" name="regenerate_text">false</item>
+    <item type="id" name="otp_sms">false</item>
+    <item type="id" name="approve">false</item>
+    <item type="id" name="regenerate_layout">false</item>
+    <item type="id" name="pin_layout_gone">false</item>
+    <item type="id" name="Enter_manually_gone">false</item>
+    <item type="id" name="enter_manually">false</item>
+    <item type="id" name="Regenerate_layout_gone">false</item>
+    <item type="id" name="retry">false</item>
+    <item type="id" name="row">false</item>
+    <item type="id" name="linear_layout_waiting_for_otp">false</item>
+    <item type="id" name="timer">false</item>
+    <item type="id" name="otp_recieved">false</item>
+    <item type="id" name="retry_text">false</item>
+    <item type="id" name="action_exit">false</item>
+    <item type="id" name="action_demo">false</item>
+    <item type="id" name="action_next">false</item>
+    <item type="id" name="action_settings">false</item>
+</resources>

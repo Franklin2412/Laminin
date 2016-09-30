@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/franklin.michael/AndroidStudioProjects/laminin/JobScheduler/Application/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Users/franklin.michael/AndroidStudioProjects/laminin/JobScheduler/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.3.0_90bbc058f9c0d8d0ace200e544e6cb3e6a9edf63/classes.dex" />
+    </item>
+    <item
+        jar="/Users/franklin.michael/AndroidStudioProjects/laminin/JobScheduler/Application/build/intermediates/exploded-aar/com.android.support/support-v13/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="8813bdcf7583107c4873150075d17c8072ec50cf">
+        <dex dex="/Users/franklin.michael/AndroidStudioProjects/laminin/JobScheduler/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_d7374ad3844d61beeca672ae6e290535e72b6b9c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/franklin.michael/AndroidStudioProjects/laminin/JobScheduler/Application/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="3d11cc6f19c1ede5d5529f20c864114b20ee5a20">
+        <dex dex="/Users/franklin.michael/AndroidStudioProjects/laminin/JobScheduler/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_47af7c2706632fc2f73993d8a5c946a14a4494ed/classes.dex" />
+    </item>
+    <item
+        jar="/Users/franklin.michael/AndroidStudioProjects/laminin/JobScheduler/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="82ce13fd19cdfde0e392f03c27edeba8d4333648">
+        <dex dex="/Users/franklin.michael/AndroidStudioProjects/laminin/JobScheduler/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-23.3.0_048e2ebf51c7456acfdea09454a4ecb455691800/classes.dex" />
+    </item>
+    <item
+        jar="/Users/franklin.michael/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/Users/franklin.michael/AndroidStudioProjects/laminin/JobScheduler/Application/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_f64ee162276d276f0330840b151b460a2700fd34/classes.dex" />
+    </item>
+    <item
+        jar="/Users/franklin.michael/AndroidStudioProjects/laminin/JobScheduler/Application/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="f36bfba036ad1135110f91db5fd277782153e9cb">
+        <dex dex="/Users/franklin.michael/AndroidStudioProjects/laminin/JobScheduler/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4f88c2a9fad87c707abc8634473210cccb4c9211/classes.dex" />
+    </item>
+    <item
+        jar="/Users/franklin.michael/AndroidStudioProjects/laminin/JobScheduler/Application/build/intermediates/exploded-aar/com.android.support/support-v13/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="a809555a2599054c3dcd1bf82b089315ac3a11df">
+        <dex dex="/Users/franklin.michael/AndroidStudioProjects/laminin/JobScheduler/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v13-23.3.0_7a72ab29bb41f68d8829cca5c0387727dbbe1fd0/classes.dex" />
+    </item>
+    <item
+        jar="/Users/franklin.michael/AndroidStudioProjects/laminin/JobScheduler/Application/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Users/franklin.michael/AndroidStudioProjects/laminin/JobScheduler/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_fd1f3f1346ce7e7ec5f968239d04bd0edf225257/classes.dex" />
+    </item>
+
+</items>

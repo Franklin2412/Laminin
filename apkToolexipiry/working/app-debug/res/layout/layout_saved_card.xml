@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:weightSum="1.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:id="@id/linearLayout1" android:background="@drawable/grey_round_rect" android:layout_width="fill_parent" android:layout_height="fill_parent" android:weightSum="7.0">
+        <RelativeLayout android:id="@id/relativeLayout1" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_marginLeft="10.0dip" android:layout_marginTop="10.0dip" android:layout_weight="1.0">
+            <ImageView android:id="@id/bank_image" android:layout_width="wrap_content" android:layout_height="wrap_content" android:scaleType="centerInside" android:layout_alignParentLeft="true" android:foregroundGravity="left" />
+            <ImageView android:id="@id/card_type_image" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentRight="true" />
+        </RelativeLayout>
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="2.0">
+            <TextView android:textSize="25.0sp" android:textColor="@color/color_text_on_card" android:gravity="center" android:id="@id/text_view_masked_card_number" android:layout_width="fill_parent" android:layout_height="0.0dip" android:text="1234 23XX XXXX 1234" android:layout_weight="2.0" />
+            <TextView android:textSize="10.0sp" android:textColor="@color/cb_errorRed" android:gravity="center" android:layout_gravity="center" android:id="@id/text_view_saved_card_bank_down_error" android:focusable="true" android:focusableInTouchMode="true" android:visibility="gone" android:clickable="true" android:layout_width="wrap_content" android:layout_height="0.0dip" android:text="hellosdfsadfasdfasdfasdfasdfsfasdfasdf" android:layout_weight="1.0" />
+        </LinearLayout>
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="3.0">
+            <LinearLayout android:gravity="center" android:layout_gravity="center" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="0.0dip" android:weightSum="1.0" android:layout_weight="3.0">
+                <TextView android:textSize="20.0sp" android:textStyle="bold" android:gravity="center" android:id="@id/cvv_text_view" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_marginRight="7.0dip" android:text="CVV" />
+                <EditText android:textSize="20.0sp" android:gravity="center" android:id="@id/edit_text_cvv" android:background="#ffffffff" android:layout_width="wrap_content" android:layout_height="35.0dip" android:layout_marginLeft="10.0dip" android:width="50.0dip" android:maxLength="3" android:layout_weight="0.04" android:inputType="numberPassword" />
+            </LinearLayout>
+            <CheckBox android:layout_gravity="center" android:id="@id/check_box_save_card_enable_one_click_payment" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/enable_one_click_checkout" android:layout_weight="1.0" />
+        </LinearLayout>
+        <LinearLayout android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_marginLeft="20.0dip" android:layout_marginRight="20.0dip" android:layout_marginBottom="20.0dip" android:layout_weight="1.0">
+            <TextView android:textSize="13.0sp" android:textColor="@color/color_text_on_card" android:gravity="left" android:id="@id/text_view_card_name" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_margin="3.0dip" android:text="My HDFC Master Card" android:layout_weight="2.0" />
+            <TextView android:textSize="13.0sp" android:textColor="@color/color_text_on_card" android:gravity="right" android:id="@id/text_view_card_mode" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_margin="3.0dip" android:text="CardType" android:layout_weight="1.0" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.laminin.franklinmichael.circlemovesanimation.MainActivity">
+
+    <View
+        android:id="@+id/circle_one"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_centerInParent="true"
+        android:layout_above="@+id/button_animate"
+        android:background="@drawable/circle_one"/>
+
+    <View
+        android:id="@+id/circle_two"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_centerInParent="true"
+        android:layout_above="@+id/button_animate"
+        android:background="@drawable/circle_two"/>
+
+    <View
+        android:id="@+id/circle_three"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_centerInParent="true"
+        android:layout_above="@+id/button_animate"
+        android:background="@drawable/circle_three"/>
+
+    <View
+        android:id="@+id/circle_four"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_centerInParent="true"
+        android:layout_above="@+id/button_animate"
+        android:background="@drawable/circle_four"/>
+    <View
+        android:id="@+id/circle_five"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_centerInParent="true"
+        android:layout_above="@+id/button_animate"
+        android:background="@drawable/circle_five"/>
+    <View
+        android:id="@+id/circle_six"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <View
+        android:id="@+id/circle_seven"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <View
+        android:id="@+id/circle_eight"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <View
+        android:id="@+id/circle_nine"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <View
+        android:id="@+id/circle_ten"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:id="@+id/button_animate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:text="Animate"/>
+
+</RelativeLayout>

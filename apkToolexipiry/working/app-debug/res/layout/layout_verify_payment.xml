@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_centerInParent="true">
+        <TextView android:textAppearance="@android:style/TextAppearance.Medium" android:textStyle="bold" android:id="@id/text_view_verify_payment_info_header" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Enter transaction id" android:layout_centerHorizontal="true" />
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="20.0dip">
+            <EditText android:id="@id/edit_text_verify_payment_transaction_id" android:layout_width="fill_parent" android:layout_height="wrap_content" android:singleLine="true" android:imeOptions="flagNoExtractUi" />
+        </LinearLayout>
+    </RelativeLayout>
+</RelativeLayout>

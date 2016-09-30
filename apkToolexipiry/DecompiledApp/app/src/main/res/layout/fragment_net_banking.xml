@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:background="#ffffffff" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_margin="10.0dip">
+            <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_marginLeft="20.0dip" android:layout_marginTop="30.0dip" android:layout_marginRight="20.0dip" android:layout_marginBottom="30.0dip" android:layout_weight="5.0">
+                <TextView android:textStyle="bold" android:textColor="#ff9c9c9c" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/choose_bank" android:layout_weight="1.0" />
+                <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:weightSum="5.0" android:layout_weight="3.0">
+                    <LinearLayout android:orientation="vertical" android:id="@id/layout_axis" android:visibility="gone" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_margin="5.0dip" android:layout_weight="1.0">
+                        <ImageButton android:id="@id/image_button_axis" android:background="#ffffffff" android:layout_width="fill_parent" android:layout_height="wrap_content" android:src="@drawable/logo_axis" android:scaleType="fitCenter" android:adjustViewBounds="true" />
+                        <TextView android:textStyle="bold" android:gravity="center" android:id="@id/text_view_axis" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/axis_bank" />
+                    </LinearLayout>
+                    <LinearLayout android:orientation="vertical" android:id="@id/layout_hdfc" android:visibility="gone" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_margin="5.0dip" android:layout_weight="1.0">
+                        <ImageButton android:id="@id/image_button_hdfc" android:background="#ffffffff" android:layout_width="fill_parent" android:layout_height="wrap_content" android:src="@drawable/logo_hdfc" android:scaleType="fitCenter" android:adjustViewBounds="true" />
+                        <TextView android:textStyle="bold" android:gravity="center" android:id="@id/text_view_hdfc" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/hdfc" />
+                    </LinearLayout>
+                    <LinearLayout android:orientation="vertical" android:id="@id/layout_citi" android:visibility="gone" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_margin="5.0dip" android:layout_weight="1.0">
+                        <ImageButton android:id="@id/image_button_citi" android:background="#ffffffff" android:layout_width="fill_parent" android:layout_height="wrap_content" android:src="@drawable/logo_citi" android:scaleType="fitCenter" android:adjustViewBounds="true" />
+                        <TextView android:textStyle="bold" android:gravity="center" android:id="@id/text_view_citi" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/citi" />
+                    </LinearLayout>
+                    <LinearLayout android:orientation="vertical" android:id="@id/layout_sbi" android:visibility="gone" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_margin="5.0dip" android:layout_weight="1.0">
+                        <ImageButton android:id="@id/image_button_sbi" android:background="#ffffffff" android:layout_width="fill_parent" android:layout_height="wrap_content" android:src="@drawable/logo_sbi" android:scaleType="fitCenter" android:adjustViewBounds="true" />
+                        <TextView android:textStyle="bold" android:gravity="center" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/sbi" />
+                    </LinearLayout>
+                    <LinearLayout android:orientation="vertical" android:id="@id/layout_icici" android:visibility="gone" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_margin="5.0dip" android:layout_weight="1.0">
+                        <ImageButton android:id="@id/image_button_icici" android:background="#ffffffff" android:layout_width="fill_parent" android:layout_height="wrap_content" android:src="@drawable/logo_icici" android:scaleType="fitCenter" android:adjustViewBounds="true" />
+                        <TextView android:textStyle="bold" android:gravity="center" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/icici" />
+                    </LinearLayout>
+                </LinearLayout>
+                <TextView android:textStyle="bold" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="30.0dip" android:text="@string/select_bank" android:layout_weight="1.0" />
+                <Spinner android:id="@id/spinner" android:background="@drawable/rect_shape_drop_down" android:padding="10.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="5.0dip" android:drawSelectorOnTop="true" android:prompt="@string/bank_prompt" android:layout_weight="1.0" android:spinnerMode="dialog" />
+                <TextView android:textStyle="bold" android:textColor="@color/cb_errorRed" android:gravity="center" android:id="@id/text_view_bank_down_error" android:focusable="true" android:focusableInTouchMode="true" android:visibility="gone" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:layout_weight="1.0" />
+                <TextView android:textStyle="bold" android:gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:text="@string/redirection_text" android:layout_weight="1.0" />
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+</FrameLayout>

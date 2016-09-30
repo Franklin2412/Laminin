@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/franklin/AndroidStudioProjects/laminin/CardView/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b017100da14f9c158c9f5f2f508333c224b24a7c">
+        <dex dex="/Users/franklin/AndroidStudioProjects/laminin/CardView/Application/build/intermediates/pre-dexed/debug/classes-366b1661fce277a75c51e4d3053c1ecdc1558f81.jar" />
+    </item>
+
+</items>

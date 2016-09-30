@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/franklin/AndroidStudioProjects/laminin/AppRestrictionSchema/Application/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="/Users/franklin/AndroidStudioProjects/laminin/AppRestrictionSchema/Application/build/intermediates/pre-dexed/debug/internal_impl-23.0.0-ffdee5a186bdf4fd69d812e31301b331d283bb43.jar" />
+    </item>
+    <item
+        jar="/Users/franklin/AndroidStudioProjects/laminin/AppRestrictionSchema/Application/build/intermediates/exploded-aar/com.android.support/support-v13/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="bb0ac3f3ee2d71854501cc28e52cc84a20209b41">
+        <dex dex="/Users/franklin/AndroidStudioProjects/laminin/AppRestrictionSchema/Application/build/intermediates/pre-dexed/debug/classes-f42c554936fbeba197de4ee4a89728233ddcba8d.jar" />
+    </item>
+    <item
+        jar="/Users/franklin/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.0/support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="/Users/franklin/AndroidStudioProjects/laminin/AppRestrictionSchema/Application/build/intermediates/pre-dexed/debug/support-annotations-23.0.0-5a055a5aa7b2b38429d42ba353f3b80e8b889d7d.jar" />
+    </item>
+    <item
+        jar="/Users/franklin/AndroidStudioProjects/laminin/AppRestrictionSchema/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1ccbc26be2c465c622a48310e8092241b01abe80">
+        <dex dex="/Users/franklin/AndroidStudioProjects/laminin/AppRestrictionSchema/Application/build/intermediates/pre-dexed/debug/classes-0f6527bdb62e3b27e93638468b40924c38f8233e.jar" />
+    </item>
+    <item
+        jar="/Users/franklin/AndroidStudioProjects/laminin/AppRestrictionSchema/Application/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="/Users/franklin/AndroidStudioProjects/laminin/AppRestrictionSchema/Application/build/intermediates/pre-dexed/debug/classes-5331b9b79f0714902ed4d5ae803be01bc6f19bea.jar" />
+    </item>
+    <item
+        jar="/Users/franklin/AndroidStudioProjects/laminin/AppRestrictionSchema/Application/build/intermediates/exploded-aar/com.android.support/support-v13/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5d4bccb885c8a89d066ecb6c4addb553a99a79a2">
+        <dex dex="/Users/franklin/AndroidStudioProjects/laminin/AppRestrictionSchema/Application/build/intermediates/pre-dexed/debug/internal_impl-23.0.0-1a907c094a5de3f87f31a9def4b5f2b2af7dff64.jar" />
+    </item>
+
+</items>

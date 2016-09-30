@@ -1,0 +1,6 @@
+FranklinMichael:GCMer franklin$ rails g controller gcm
+FranklinMichael:GCMer franklin$ rails g controller users
+
+FranklinMichael:GCMer franklin$ rails g model User gcm_id:string name:string email:string
+
+rake db:migrate

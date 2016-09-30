@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_centerInParent="true">
+        <TextView android:textAppearance="@android:style/TextAppearance.Medium" android:textStyle="bold" android:id="@id/offer_status_text_view_header" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Enter your offer details" android:layout_centerHorizontal="true" />
+        <ScrollView android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="10.0dip" android:layout_below="@id/offer_status_text_view_header">
+            <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <Spinner android:id="@id/spinner_select_offer_mode" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+                <LinearLayout android:orientation="vertical" android:id="@id/linear_layout_card_number_layout" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent">
+                    <EditText android:id="@id/edit_text_offer_card_number" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="2.0dip" android:hint="Valid Card Number" android:singleLine="true" android:imeOptions="flagNoExtractUi" />
+                </LinearLayout>
+                <LinearLayout android:orientation="vertical" android:id="@id/linear_layout_user_credentials" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent">
+                    <EditText android:id="@id/edit_text_offer_user_credentials" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+                </LinearLayout>
+                <LinearLayout android:orientation="vertical" android:id="@id/linear_layout_user_credentials_and_card_token" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent">
+                    <Spinner android:id="@id/spinner_stored_cards" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+                </LinearLayout>
+                <LinearLayout android:orientation="vertical" android:id="@id/linear_layout_netbanking" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent">
+                    <EditText android:enabled="false" android:layout_width="fill_parent" android:layout_height="fill_parent" android:text="NB" />
+                </LinearLayout>
+                <LinearLayout android:orientation="vertical" android:id="@id/linear_layout_bank_code" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent">
+                    <Spinner android:id="@id/spinner_netbanking" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+                </LinearLayout>
+                <EditText android:id="@id/edit_text_offer_amount" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="2.0dip" android:hint="amount(Optional)" android:singleLine="true" android:imeOptions="flagNoExtractUi" />
+            </LinearLayout>
+        </ScrollView>
+    </RelativeLayout>
+</RelativeLayout>

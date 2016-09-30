@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="bank_names">
+        <item>State Bank Of India</item>
+        <item>HDFC</item>
+        <item>CITI</item>
+        <item>ICICI</item>
+        <item>Kotak Mahindra</item>
+        <item>Canara Bank</item>
+        <item>Axis Bank</item>
+        <item>State Bank of Hyderabad</item>
+        <item>State Bank Of Mysore</item>
+        <item>Central Bank of India</item>
+        <item>Yes Bank</item>
+        <item>Bank Of India</item>
+    </string-array>
+    <string-array name="card_types">
+        <item>VISA</item>
+        <item>MASTER</item>
+        <item>MASTERO</item>
+    </string-array>
+    <string-array name="check_offer_details_modes">
+        <item>Card number</item>
+        <item>User credential</item>
+        <item>User credential and Card token</item>
+        <item>PG as NB</item>
+        <item>PG as Bank code</item>
+    </string-array>
+    <string-array name="offer_modes">
+        <item>New card</item>
+        <item>Stored card</item>
+        <item>Net Banking</item>
+    </string-array>
+</resources>

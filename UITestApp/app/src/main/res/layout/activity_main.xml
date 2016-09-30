@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    tools:context="com.laminin.franklinmichael.uitestapp.MainActivity">
+
+    <!--<com.laminin.franklinmichael.uitestapp.Widgets.SnoozeLoaderView-->
+        <!--android:id="@+id/snooze_loader_view"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--app:startAnimate="true"-->
+        <!--android:padding="20dp"-->
+        <!--app:activeBarColor="#00adf2"-->
+        <!--app:inActiveBarColor="#b0eafc"-->
+        <!--app:barWidth="20px"-->
+        <!--app:barHeight="60px"-->
+        <!--app:barSpace="20px"-->
+        <!--app:animationSpeed="200"-->
+        <!--android:background="@android:color/holo_blue_bright"/>-->
+
+    <!--<com.laminin.franklinmichael.uitestapp.Widgets.BarLoader-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:padding="20dp"-->
+        <!--android:layout_margin="50dp"/>-->
+
+    <com.laminin.franklinmichael.uitestapp.Widgets.CurvedLineView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:fillColor="#00adf2"
+        app:lowerColor="#FF0000"
+        app:upperColor="#00FF00"
+        android:background="@color/colorPrimaryDark"/>
+</LinearLayout>

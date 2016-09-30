@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "606209393160",
+    "project_id": "firebase-myassist"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606209393160:android:a63148e4357143c1",
+        "android_client_info": {
+          "package_name": "com.laminin.myassist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "606209393160-jg1f4c11fi7sheq8fgsn6j3r2fni5r9p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.laminin.myassist",
+            "certificate_hash": "3FC0F3E45C10966DCE0D20E8DC886987DC381975"
+          }
+        },
+        {
+          "client_id": "606209393160-grkq1u97pooe47iugvdh1ck22ll2j2nc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClqD1o5IFeAZAV9BvP2WkVpwMZGxZCDRU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

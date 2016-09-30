@@ -1,0 +1,916 @@
+[
+    {
+        "outputFile": "/Users/franklin.michael/AndroidStudioProjects/laminin/JobScheduler/Application/build/intermediates/res/merged/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 60,
+                    "endOffset": 111
+                },
+                "from": {
+                    "file": "/Users/franklin.michael/AndroidStudioProjects/laminin/JobScheduler/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.3.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 60,
+                        "endOffset": 111
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 116,
+                    "endColumn": 61,
+                    "endOffset": 173
+                },
+                "from": {
+                    "file": "/Users/franklin.michael/AndroidStudioProjects/laminin/JobScheduler/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.3.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 116,
+                        "endColumn": 61,
+                        "endOffset": 173
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 178,
+                    "endColumn": 61,
+                    "endOffset": 235
+                },
+                "from": {
+                    "file": "/Users/franklin.michael/AndroidStudioProjects/laminin/JobScheduler/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.3.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 178,
+                        "endColumn": 61,
+                        "endOffset": 235
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 240,
+                    "endColumn": 63,
+                    "endOffset": 299
+                },
+                "from": {
+                    "file": "/Users/franklin.michael/AndroidStudioProjects/laminin/JobScheduler/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.3.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 240,
+                        "endColumn": 63,
+                        "endOffset": 299
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 304,
+                    "endColumn": 47,
+                    "endOffset": 347
+                },
+                "from": {
+                    "file": "/Users/franklin.michael/AndroidStudioProjects/laminin/JobScheduler/Application/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 637,
+                        "endColumn": 47,
+                        "endOffset": 680
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 352,
+                    "endColumn": 48,
+                    "endOffset": 396
+                },
+                "from": {
+                    "file": "/Users/franklin.michael/AndroidStudioProjects/laminin/JobScheduler/Application/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 685,
+                        "endColumn": 48,
+                        "endOffset": 729
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 401,
+                    "endColumn": 47,
+                    "endOffset": 444
+                },
+                "from": {
+                    "file": "/Users/franklin.michael/AndroidStudioProjects/laminin/JobScheduler/Application/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 734,
+                        "endColumn": 47,
+                        "endOffset": 777
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 1134,
+                    "endColumn": 58,
+                    "endOffset": 1188
+                },
+                "from": {
+                    "file": "/Users/franklin.michael/AndroidStudioProjects/laminin/JobScheduler/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.3.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 989,
+                        "endColumn": 58,
+                        "endOffset": 1043
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1193,
+                    "endColumn": 56,
+                    "endOffset": 1245
+                },
+                "from": {
+                    "file": "/Users/franklin.michael/AndroidStudioProjects/laminin/JobScheduler/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.3.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 1048,
+                        "endColumn": 56,
+                        "endOffset": 1100
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1250,
+                    "endColumn": 53,
+                    "endOffset": 1299
+                },
+                "from": {
+                    "file": "/Users/franklin.michael/AndroidStudioProjects/laminin/JobScheduler/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.3.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 1105,
+                        "endColumn": 53,
+                        "endOffset": 1154
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1304,
+                    "endColumn": 69,
+                    "endOffset": 1369
+                },
+                "from": {
+                    "file": "/Users/franklin.michael/AndroidStudioProjects/laminin/JobScheduler/Application/src/main/res/values/template-dimens.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 959,
+                        "endColumn": 69,
+                        "endOffset": 1024
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1374,
+                    "endColumn": 42,
+                    "endOffset": 1412
+                },
+                "from": {
+                    "file": "/Users/franklin.michael/AndroidStudioProjects/laminin/JobScheduler/Application/src/main/res/values/template-dimens.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 880,
+                        "endColumn": 42,
+                        "endOffset": 918
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1417,
+                    "endColumn": 43,
+                    "endOffset": 1456
+                },
+                "from": {
+                    "file": "/Users/franklin.michael/AndroidStudioProjects/laminin/JobScheduler/Application/src/main/res/values/template-dimens.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 836,
+                        "endColumn": 43,
+                        "endOffset": 875
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1461,
+                    "endColumn": 44,
+                    "endOffset": 1501
+                },
+                "from": {
+                    "file": "/Users/franklin.michael/AndroidStudioProjects/laminin/JobScheduler/Application/src/main/res/values/template-dimens.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 791,
+                        "endColumn": 44,
+                        "endOffset": 831
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1506,
+                    "endColumn": 42,
+                    "endOffset": 1544
+                },
+                "from": {
+                    "file": "/Users/franklin.michael/AndroidStudioProjects/laminin/JobScheduler/Application/src/main/res/values/template-dimens.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 748,
+                        "endColumn": 42,
+                        "endOffset": 786
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1549,
+                    "endColumn": 41,
+                    "endOffset": 1586
+                },
+                "from": {
+                    "file": "/Users/franklin.michael/AndroidStudioProjects/laminin/JobScheduler/Application/src/main/res/values/template-dimens.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 706,
+                        "endColumn": 41,
+                        "endOffset": 743
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1591,
+                    "endColumn": 67,
+                    "endOffset": 1654
+                },
+                "from": {
+                    "file": "/Users/franklin.michael/AndroidStudioProjects/laminin/JobScheduler/Application/src/main/res/values/template-dimens.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1029,
+                        "endColumn": 67,
+                        "endOffset": 1092
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1659,
+                    "endColumn": 35,
+                    "endOffset": 1690
+                },
+                "from": {
+                    "file": "/Users/franklin.michael/AndroidStudioProjects/laminin/JobScheduler/Application/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1365,
+                        "endColumn": 35,
+                        "endOffset": 1396
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1695,
+                    "endColumn": 49,
+                    "endOffset": 1740
+                },
+                "from": {
+                    "file": "/Users/franklin.michael/AndroidStudioProjects/laminin/JobScheduler/Application/src/main/res/values/base-strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 647,
+                        "endColumn": 49,
+                        "endOffset": 692
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1745,
+                    "endColumn": 66,
+                    "endOffset": 1807
+                },
+                "from": {
+                    "file": "/Users/franklin.michael/AndroidStudioProjects/laminin/JobScheduler/Application/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 882,
+                        "endColumn": 66,
+                        "endOffset": 944
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1812,
+                    "endColumn": 54,
+                    "endOffset": 1862
+                },
+                "from": {
+                    "file": "/Users/franklin.michael/AndroidStudioProjects/laminin/JobScheduler/Application/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1086,
+                        "endColumn": 54,
+                        "endOffset": 1136
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1867,
+                    "endColumn": 69,
+                    "endOffset": 1932
+                },
+                "from": {
+                    "file": "/Users/franklin.michael/AndroidStudioProjects/laminin/JobScheduler/Application/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1141,
+                        "endColumn": 69,
+                        "endOffset": 1206
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1937,
+                    "endColumn": 54,
+                    "endOffset": 1987
+                },
+                "from": {
+                    "file": "/Users/franklin.michael/AndroidStudioProjects/laminin/JobScheduler/Application/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1310,
+                        "endColumn": 54,
+                        "endOffset": 1360
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1992,
+                    "endColumn": 51,
+                    "endOffset": 2039
+                },
+                "from": {
+                    "file": "/Users/franklin.michael/AndroidStudioProjects/laminin/JobScheduler/Application/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1258,
+                        "endColumn": 51,
+                        "endOffset": 1305
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2044,
+                    "endColumn": 46,
+                    "endOffset": 2086
+                },
+                "from": {
+                    "file": "/Users/franklin.michael/AndroidStudioProjects/laminin/JobScheduler/Application/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1528,
+                        "endColumn": 46,
+                        "endOffset": 1570
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2091,
+                    "endColumn": 75,
+                    "endOffset": 2162
+                },
+                "from": {
+                    "file": "/Users/franklin.michael/AndroidStudioProjects/laminin/JobScheduler/Application/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 740,
+                        "endColumn": 75,
+                        "endOffset": 811
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2167,
+                    "endColumn": 40,
+                    "endOffset": 2203
+                },
+                "from": {
+                    "file": "/Users/franklin.michael/AndroidStudioProjects/laminin/JobScheduler/Application/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 1487,
+                        "endColumn": 40,
+                        "endOffset": 1523
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 2208,
+                    "endColumn": 63,
+                    "endOffset": 2267
+                },
+                "from": {
+                    "file": "/Users/franklin.michael/AndroidStudioProjects/laminin/JobScheduler/Application/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 949,
+                        "endColumn": 63,
+                        "endOffset": 1008
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 2272,
+                    "endColumn": 46,
+                    "endOffset": 2314
+                },
+                "from": {
+                    "file": "/Users/franklin.michael/AndroidStudioProjects/laminin/JobScheduler/Application/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1211,
+                        "endColumn": 46,
+                        "endOffset": 1253
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 2319,
+                    "endColumn": 72,
+                    "endOffset": 2387
+                },
+                "from": {
+                    "file": "/Users/franklin.michael/AndroidStudioProjects/laminin/JobScheduler/Application/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1013,
+                        "endColumn": 72,
+                        "endOffset": 1081
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 2392,
+                    "endLine": 42,
+                    "endColumn": 13,
+                    "endOffset": 2646
+                },
+                "from": {
+                    "file": "/Users/franklin.michael/AndroidStudioProjects/laminin/JobScheduler/Application/src/main/res/values/base-strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 697,
+                        "endLine": 28,
+                        "endColumn": 13,
+                        "endOffset": 963
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 2651,
+                    "endColumn": 51,
+                    "endOffset": 2698
+                },
+                "from": {
+                    "file": "/Users/franklin.michael/AndroidStudioProjects/laminin/JobScheduler/Application/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 688,
+                        "endColumn": 51,
+                        "endOffset": 735
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 2703,
+                    "endColumn": 49,
+                    "endOffset": 2748
+                },
+                "from": {
+                    "file": "/Users/franklin.michael/AndroidStudioProjects/laminin/JobScheduler/Application/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 638,
+                        "endColumn": 49,
+                        "endOffset": 683
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 2753,
+                    "endColumn": 65,
+                    "endOffset": 2814
+                },
+                "from": {
+                    "file": "/Users/franklin.michael/AndroidStudioProjects/laminin/JobScheduler/Application/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 816,
+                        "endColumn": 65,
+                        "endOffset": 877
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 2819,
+                    "endColumn": 42,
+                    "endOffset": 2857
+                },
+                "from": {
+                    "file": "/Users/franklin.michael/AndroidStudioProjects/laminin/JobScheduler/Application/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1444,
+                        "endColumn": 42,
+                        "endOffset": 1482
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 2862,
+                    "endColumn": 42,
+                    "endOffset": 2900
+                },
+                "from": {
+                    "file": "/Users/franklin.michael/AndroidStudioProjects/laminin/JobScheduler/Application/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1401,
+                        "endColumn": 42,
+                        "endOffset": 1439
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 2905,
+                    "endLine": 54,
+                    "endColumn": 12,
+                    "endOffset": 3191
+                },
+                "from": {
+                    "file": "/Users/franklin.michael/AndroidStudioProjects/laminin/JobScheduler/Application/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 808,
+                        "endLine": 29,
+                        "endColumn": 12,
+                        "endOffset": 1094
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 3196,
+                    "endColumn": 50,
+                    "endOffset": 3242
+                },
+                "from": {
+                    "file": "/Users/franklin.michael/AndroidStudioProjects/laminin/JobScheduler/Application/src/main/res/values/template-styles.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 768,
+                        "endColumn": 51,
+                        "endOffset": 815
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 3247,
+                    "endLine": 62,
+                    "endColumn": 12,
+                    "endOffset": 3656
+                },
+                "from": {
+                    "file": "/Users/franklin.michael/AndroidStudioProjects/laminin/JobScheduler/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.3.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 1159,
+                        "endLine": 16,
+                        "endColumn": 12,
+                        "endOffset": 1568
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 3661,
+                    "endLine": 64,
+                    "endColumn": 12,
+                    "endOffset": 3720
+                },
+                "from": {
+                    "file": "/Users/franklin.michael/AndroidStudioProjects/laminin/JobScheduler/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.3.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1573,
+                        "endLine": 18,
+                        "endColumn": 12,
+                        "endOffset": 1632
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 3725,
+                    "endLine": 67,
+                    "endColumn": 12,
+                    "endOffset": 3846
+                },
+                "from": {
+                    "file": "/Users/franklin.michael/AndroidStudioProjects/laminin/JobScheduler/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.3.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1637,
+                        "endLine": 21,
+                        "endColumn": 12,
+                        "endOffset": 1758
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 3851,
+                    "endLine": 70,
+                    "endColumn": 12,
+                    "endOffset": 3974
+                },
+                "from": {
+                    "file": "/Users/franklin.michael/AndroidStudioProjects/laminin/JobScheduler/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.3.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1763,
+                        "endLine": 24,
+                        "endColumn": 12,
+                        "endOffset": 1886
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 3979,
+                    "endColumn": 59,
+                    "endOffset": 4034
+                },
+                "from": {
+                    "file": "/Users/franklin.michael/AndroidStudioProjects/laminin/JobScheduler/Application/src/main/res/values/template-styles.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 651,
+                        "endColumn": 60,
+                        "endOffset": 707
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 72,
+                    "startColumn": 4,
+                    "startOffset": 4039,
+                    "endColumn": 52,
+                    "endOffset": 4087
+                },
+                "from": {
+                    "file": "/Users/franklin.michael/AndroidStudioProjects/laminin/JobScheduler/Application/src/main/res/values/template-styles.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 713,
+                        "endColumn": 53,
+                        "endOffset": 762
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 73,
+                    "startColumn": 4,
+                    "startOffset": 4092,
+                    "endColumn": 26,
+                    "endOffset": 4114
+                },
+                "from": {
+                    "file": "/Users/franklin.michael/AndroidStudioProjects/laminin/JobScheduler/Application/src/main/res/values/template-styles.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 849,
+                        "endColumn": 27,
+                        "endOffset": 872
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 74,
+                    "startColumn": 4,
+                    "startOffset": 4119,
+                    "endLine": 77,
+                    "endColumn": 12,
+                    "endOffset": 4310
+                },
+                "from": {
+                    "file": "/Users/franklin.michael/AndroidStudioProjects/laminin/JobScheduler/Application/src/main/res/values/template-styles.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 878,
+                        "endLine": 32,
+                        "endColumn": 12,
+                        "endOffset": 1069
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 78,
+                    "startColumn": 4,
+                    "startOffset": 4315,
+                    "endLine": 83,
+                    "endColumn": 12,
+                    "endOffset": 4588
+                },
+                "from": {
+                    "file": "/Users/franklin.michael/AndroidStudioProjects/laminin/JobScheduler/Application/src/main/res/values/template-styles.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1075,
+                        "endLine": 39,
+                        "endColumn": 12,
+                        "endOffset": 1348
+                    }
+                }
+            }
+        ]
+    }
+]

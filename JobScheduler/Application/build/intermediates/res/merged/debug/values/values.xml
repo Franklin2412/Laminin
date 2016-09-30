@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="cardview_dark_background">#FF424242</color>
+    <color name="cardview_light_background">#FFFFFFFF</color>
+    <color name="cardview_shadow_end_color">#03000000</color>
+    <color name="cardview_shadow_start_color">#37000000</color>
+    <color name="none_received">#999999</color>
+    <color name="start_received">#00FF00</color>
+    <color name="stop_received">#FF0000</color>
+    <declare-styleable name="CardView"><attr format="color" name="cardBackgroundColor"/><attr format="dimension" name="cardCornerRadius"/><attr format="dimension" name="cardElevation"/><attr format="dimension" name="cardMaxElevation"/><attr format="boolean" name="cardUseCompatPadding"/><attr format="boolean" name="cardPreventCornerOverlap"/><attr format="dimension" name="contentPadding"/><attr format="dimension" name="contentPaddingLeft"/><attr format="dimension" name="contentPaddingRight"/><attr format="dimension" name="contentPaddingTop"/><attr format="dimension" name="contentPaddingBottom"/><attr name="android:minWidth"/><attr name="android:minHeight"/></declare-styleable>
+    <dimen name="cardview_compat_inset_shadow">1dp</dimen>
+    <dimen name="cardview_default_elevation">2dp</dimen>
+    <dimen name="cardview_default_radius">2dp</dimen>
+    <dimen name="horizontal_page_margin">@dimen/margin_medium</dimen>
+    <dimen name="margin_huge">64dp</dimen>
+    <dimen name="margin_large">32dp</dimen>
+    <dimen name="margin_medium">16dp</dimen>
+    <dimen name="margin_small">8dp</dimen>
+    <dimen name="margin_tiny">4dp</dimen>
+    <dimen name="vertical_page_margin">@dimen/margin_medium</dimen>
+    <string name="any">Any</string>
+    <string name="app_name">JobScheduler</string>
+    <string name="cancel_all_jobs_button_text">Cancel all</string>
+    <string name="charging_caption">Charging:</string>
+    <string name="charging_text">Requires device plugged in.</string>
+    <string name="connectivity">Connectivity:</string>
+    <string name="constraints">Constraints</string>
+    <string name="deadline">Deadline:</string>
+    <string name="defaultparamtext">task params will show up here.</string>
+    <string name="delay">Delay:</string>
+    <string name="finish_job_button_text">taskFinished</string>
+    <string name="idle_caption">Idle:</string>
+    <string name="idle_mode_text">Requires device in idle mode.</string>
+    <string name="intro_message">
+        
+        
+            
+            Demonstration of the JobScheduler API, which provides an interface for scheduling
+            background tasks when certain tasks apply.
+            
+        
+        
+    </string>
+    <string name="onstarttask">onStartTask</string>
+    <string name="onstoptask">onStopTask</string>
+    <string name="schedule_job_button_text">Schedule Job</string>
+    <string name="timing">Timing:</string>
+    <string name="unmetered">WiFi</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="Theme.Sample"/>
+    <style name="Base.CardView" parent="android:Widget">
+        <item name="cardCornerRadius">@dimen/cardview_default_radius</item>
+        <item name="cardElevation">@dimen/cardview_default_elevation</item>
+        <item name="cardMaxElevation">@dimen/cardview_default_elevation</item>
+        <item name="cardUseCompatPadding">false</item>
+        <item name="cardPreventCornerOverlap">true</item>
+    </style>
+    <style name="CardView" parent="Base.CardView">
+    </style>
+    <style name="CardView.Dark">
+        <item name="cardBackgroundColor">@color/cardview_dark_background</item>
+    </style>
+    <style name="CardView.Light">
+        <item name="cardBackgroundColor">@color/cardview_light_background</item>
+    </style>
+    <style name="Theme.Base" parent="android:Theme.Light"/>
+    <style name="Theme.Sample" parent="Theme.Base"/>
+    <style name="Widget"/>
+    <style name="Widget.SampleMessage">
+        <item name="android:textAppearance">?android:textAppearanceMedium</item>
+        <item name="android:lineSpacingMultiplier">1.1</item>
+    </style>
+    <style name="Widget.SampleMessageTile">
+        <item name="android:background">@drawable/tile</item>
+        <item name="android:shadowColor">#7F000000</item>
+        <item name="android:shadowDy">-3.5</item>
+        <item name="android:shadowRadius">2</item>
+    </style>
+</resources>
